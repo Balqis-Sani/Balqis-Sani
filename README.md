@@ -3,6 +3,6 @@
 
 - Proficient in **SQL, Excel , Power BI**
 
--  I’m currently learning **data analysis with Python**
+-  Currently learning **data analysis with Python**
 
 - You can reach me at  **balqissani123@gmail.com**
